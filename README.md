@@ -4,7 +4,7 @@ Welcome to my corner of GitHub! I'm a  **Full Stack Data Scientist** with a prof
 
 My journey at Krüger A/S, within the Digital Innovation department, has been incredibly rewarding. What started as an internship quickly evolved into a role, where I'm constantly challenged to apply data analysis, software development, and optimization techniques, particularly within the environmental and utility sectors. I love diving deep into data to uncover opportunities and then bringing those insights to life through innovative applications.
 
-## My Core Skills:
+## Core Skills:
 
 * **Programming:** Python (pandas, scikit-learn, OR-Tools, Streamlit, SQL, geopy, requests), SQL, Git, R
 * **Data Science:** Data Analysis, Machine Learning (Anomaly Detection, Clustering, Predictive Modeling, Ensemble Models), Feature Engineering
