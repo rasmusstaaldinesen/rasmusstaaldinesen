@@ -148,7 +148,7 @@ This project focused on building a comprehensive data solution to enhance scouti
 
 I'm always keen to discuss new opportunities, exciting projects, or just share insights on data science and technological innovation. Feel free to reach out!
 
-* **LinkedIn:** https://www.linkedin.com/in/rasmusstaaldinesen/)
+* **LinkedIn:** https://www.linkedin.com/in/rasmusstaaldinesen/
 * **Email:** rasmusstaal@yahoo.dk
 
 
