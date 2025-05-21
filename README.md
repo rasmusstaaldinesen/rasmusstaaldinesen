@@ -1,4 +1,4 @@
-# Hi there, I'm Rasmus 👋
+# Hi, I'm Rasmus 👋
 
 Welcome to my corner of GitHub! I'm a  **Full Stack Data Scientist** with a professional bachelor's degree in Data Analytics from CPHBusiness. I thrive on transforming raw data into actionable insights and building robust, production-ready solutions that truly make a difference.
 
