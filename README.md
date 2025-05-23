@@ -8,7 +8,7 @@ Min rejse hos Krüger A/S, i afdelingen for Digital Innovation, har været utrol
 
 ### Kernekompetencer: 🛠️
 
-Her er et visuelt overblik over de teknologier og værktøjer, jeg mestrer:
+Her er et visuelt overblik over de teknologier og værktøjer, jeg arbejder med:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
