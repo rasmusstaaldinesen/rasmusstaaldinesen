@@ -1,4 +1,4 @@
-English below :)
+Scroll down for english version :)
 
 # Hejsa, jeg er Rasmus 👋
 
