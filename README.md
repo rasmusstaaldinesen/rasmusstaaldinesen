@@ -1,4 +1,6 @@
 Scroll down for english version :)
+[Read this README in English](#hello-im-rasmus-)
+
 
 # Hejsa, jeg er Rasmus 👋
 
