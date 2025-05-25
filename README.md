@@ -1,15 +1,12 @@
-# Hej, jeg er Rasmus 👋
+# Hejsa, jeg er Rasmus 👋
 
 Velkommen til mit hjørne af GitHub! Jeg er en **Full Stack Data Scientist** med en professionsbachelor i Data Analytics fra CPHBusiness. Jeg trives med at omdanne rå data til brugbar indsigt og bygge robuste, produktionsklare løsninger, der virkelig gør en forskel.
 
-Min rejse hos Krüger A/S, i afdelingen for Digital Innovation, har været utroligt givende. Hvad der startede som en praktikplads, hvor jeg var den eneste medarbedjer, udviklede sig hurtigt til en rolle, hvor jeg konstant bliver udfordret til at anvende dataanalyse, softwareudvikling og optimeringsteknikker, især inden for miljø- og forsyningssektorerne. Jeg elsker at dykke dybt ned i data for at afdække muligheder og derefter bringe disse indsigter til live gennem innovative applikationer.
+Min rejse hos Krüger A/S, i afdelingen for Digital Innovation, har været utroligt givende. Hvad der startede som en praktikplads, hvor jeg var den første og eneste medarbedjer, udviklede sig hurtigt til en rolle, hvor jeg konstant bliver udfordret til at anvende dataanalyse, softwareudvikling og optimeringsteknikker, især inden for miljø- og forsyningssektorerne. Jeg elsker at dykke dybt ned i data for at afdække muligheder og derefter bringe disse indsigter til live gennem innovative applikationer.
 
 ---
 
 ### Kernekompetencer: 🛠️
-
-Her er et visuelt overblik over de teknologier og værktøjer, jeg arbejder med:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
