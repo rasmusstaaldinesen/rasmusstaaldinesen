@@ -1,4 +1,4 @@
-English version here (#hello-im-rasmus-) :)
+[English version here :)](#hello-im-rasmus-)
 
 
 # Hejsa, jeg er Rasmus 👋
