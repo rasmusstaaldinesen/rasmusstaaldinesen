@@ -28,7 +28,7 @@ Min rejse hos Krüger A/S har været utroligt givende. Hvad der startede som en 
 
 ---
 
-## Projekter jeg er stolt af: 🚀
+## Projekter
 
 Her er et indblik i nogle af de projekter, jeg har arbejdet med, som viser min tilgang til at løse udfordringer og udforske forskellige datasæt. Selvom den faktiske kode for nogle klientprojekter forbliver fortrolig, har jeg skitseret min rolle, de teknologier, jeg brugte, og effekten af mit arbejde.
 
@@ -206,7 +206,7 @@ My journey at Krüger A/S in the Digital Innovation department has been incredib
 
 ---
 
-## Projects I’m Proud Of 🚀
+## Projects
 
 Below is a selection of projects that showcase my approach to tackling challenges and exploring diverse datasets. While some client projects remain confidential, I’ve highlighted my role, the technologies I used, and the impact of my work.
 
