@@ -171,7 +171,12 @@ Dette projekt fokuserede på at bygge en omfattende dataløsning til at forbedre
 * **✨ Effekt:** Denne platform omdanner statiske spildata til et dynamisk og kraftfuldt analyseværktøj, der muliggør mere informeret beslutningstagning for virtuelle fodboldmanagere, hvilket markant strømliner scoutingprocessen og giver en konkurrencemæssig fordel.
 
 
+### Lad os connect'e! 🤝
 
+Jeg er altid frisk på at diskutere nye muligheder, spændende projekter eller dele indsigt inden for datavidenskab og teknologisk innovation. Du er velkommen til at række ud!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusstaaldinesen/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasmusstaal@yahoo.dk)
 
 
 
@@ -306,14 +311,4 @@ Below is a selection of projects that showcase my approach to tackling challenge
 I’m always excited to discuss new opportunities, share insights, or collaborate on innovative data science projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusstaaldinesen/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasmusstaal@yahoo.dk)
-
-
----
-
-### Lad os connect'e! 🤝
-
-Jeg er altid frisk på at diskutere nye muligheder, spændende projekter eller dele indsigt inden for datavidenskab og teknologisk innovation. Du er velkommen til at række ud!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusstaaldinesen/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasmusstaal@yahoo.dk)
