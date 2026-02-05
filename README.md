@@ -1,8 +1,8 @@
 # Hello, I’m Rasmus 👋
 
-Welcome to my corner of GitHub! I am a **Full Stack Data Scientist** with a Professional Bachelor’s degree in Data Analytics from CPHBusiness. I thrive on transforming raw data into actionable insights and building robust, production-ready solutions that truly make a difference.
+Welcome to my corner of GitHub! I am a **Data-hacker**. I thrive on transforming raw data into actionable insights and building robust, production-ready solutions that truly make a difference.
 
-My journey at Krüger A/S in the Digital Innovation department has been incredibly rewarding. What began as an internship—where I was the first and only team member—rapidly evolved into a role that constantly challenges me to apply data analysis, software development, and optimization techniques, especially within the environmental and utilities sectors. I love diving deep into data to uncover opportunities and then bringing those insights to life through innovative applications.
+My journey at Veolia in the Digital Innovation department has been incredibly rewarding. What began as an internship—where I was the first and only team member—rapidly evolved into a role that constantly challenges me to apply data analysis, software development, and optimization techniques, especially within the environmental and utilities sectors. I love diving deep into data to uncover opportunities and then bringing those insights to life through innovative applications.
 
 ---
 
