@@ -71,6 +71,14 @@ Below is a selection of projects that showcase my approach to tackling challenge
 
 ### 5. Used-Car Price Prediction & Deal Identification
 <img width="923" height="880" alt="image" src="https://github.com/user-attachments/assets/e33ae43c-0eb5-4321-933b-6600ab3f44f4" />
+<img width="1020" height="356" alt="image" src="https://github.com/user-attachments/assets/c0b13e17-b4af-4b3a-a824-1c0a6dcd6123" />
+<img width="818" height="581" alt="image" src="https://github.com/user-attachments/assets/4b8982bd-b866-4ca1-a5d8-f39b9f357317" />
+<img width="879" height="784" alt="image" src="https://github.com/user-attachments/assets/55dba5c0-cf7e-4e88-b8ef-d2fd80a955e9" />
+<img width="639" height="335" alt="image" src="https://github.com/user-attachments/assets/1b420a54-3107-47bf-88be-ffe9b7b119b0" />
+<img width="1001" height="350" alt="image" src="https://github.com/user-attachments/assets/2ad59ce8-70bb-4196-aa03-76cf5139f26b" />
+<img width="1001" height="423" alt="image" src="https://github.com/user-attachments/assets/a9f852e4-6781-410d-afa2-691027c7615d" />
+<img width="685" height="546" alt="image" src="https://github.com/user-attachments/assets/52d58a73-d64d-404b-b4d9-e9c380c627f7" />
+
 
 - **Web Scraping:** Collected large datasets from different websites covering a broad range of vehicle attributes and prices.
 - **Feature Engineering:** Crafted predictive features from raw listings.  
@@ -148,6 +156,12 @@ Below is a selection of projects that showcase my approach to tackling challenge
 
 ### 11. Football Manager 2024 Scouting & Analysis Platform
 <img width="1047" height="705" alt="image" src="https://github.com/user-attachments/assets/bfe0c9ac-dc42-4fa1-a8ed-4652da025fc8" />
+<img width="1704" height="783" alt="image" src="https://github.com/user-attachments/assets/06a3308f-e056-442f-8e30-0c46ccdc4293" />
+<img width="1700" height="832" alt="image" src="https://github.com/user-attachments/assets/5ee36b92-924e-4d74-8de2-8a750ca044ba" />
+<img width="1404" height="625" alt="image" src="https://github.com/user-attachments/assets/f1bff9c5-aecd-4127-9723-304244793a8d" />
+<img width="1380" height="510" alt="image" src="https://github.com/user-attachments/assets/e4dba7ac-35b7-4ed7-945c-1e7c60ca945c" />
+<img width="986" height="652" alt="image" src="https://github.com/user-attachments/assets/d33648b1-88d6-4400-ba0f-ad3e9d96d6d2" />
+
 
 - **Automated Data Extraction:** Scraped player attributes from Football Manager HTML exports using Python.  
 - **Data Cleaning:** Standardized numeric values (salaries, transfer values), handled missing data, and resolved inconsistencies.  
