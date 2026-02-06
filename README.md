@@ -6,7 +6,7 @@ My journey at Veolia in the Digital Innovation department has been incredibly re
 
 ---
 
-## Indhold 📖
+## Content 📖
 * [Core Skills 🛠️](#core-skills-️)
 * [Projects](#projects)
     * [Environmental Data Science & Optimization 🌿](#environmental-data-science--optimization-)
