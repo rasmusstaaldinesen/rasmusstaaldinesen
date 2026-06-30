@@ -1,33 +1,25 @@
-# Hi, I’m Rasmus 👋
+# Hi, I'm Rasmus.
 
-Welcome to my corner of GitHub! I am a **Data-hacker**. I mine, explore, analyze and what ever you can think of, with data.
+**Data Analyst / Data Scientist working with applied machine learning, dashboards, automation, forecasting and decision-support tools.**
 
-My journey at Veolia in the Digital Innovation department has been incredibly rewarding. What began as an internship where I was the first and only team member rapidly evolved into a role that constantly challenges me to apply data analysis, software development, and optimization techniques, especially within the environmental and utilities sectors. I love diving deep into data to uncover opportunities and then bringing those insights to life through innovative applications.
+I work best when I can take a messy dataset, an unclear problem or a manual workflow and turn it into something practical: a dashboard, model, app, automation or analytical tool that other people can actually use.
 
----
-
-## Content 📖
-* [Core Skills 🛠️](#core-skills-️)
-* [Projects](#projects)
-    * [Environmental Data Science & Optimization 🌿](#environmental-data-science--optimization-)
-        * [1. Bachelor Project: Anomaly Detection & Soil Remediation Optimization](#1-bachelor-project-anomaly-detection--soil-remediation-optimization)
-        * [2. Cathodic Protection Data Platform](#2-cathodic-protection-data-platform)
-        * [3. GeoPlanner: Route Optimization for Field Technicians](#3-geoplanner-route-optimization-for-field-technicians)
-        * [4. Near-Surface Groundwater: Hydrological Model Comparison](#4-near-surface-groundwater-hydrological-model-comparison)
-    * [Market & Economic Analysis 📈](#market--economic-analysis-)
-        * [5. Used-Car Price Prediction & Deal Identification](#5-used-car-price-prediction--deal-identification)
-        * [6. Danish Housing Market Analysis](#6-danish-housing-market-analysis)
-        * [7. Consumer Confidence & Economic Forecasting](#7-consumer-confidence--economic-forecasting)
-        * [8. Business Loan Accessibility](#8-business-loan-accessibility)
-        * [9. GDP Time-Series Forecasting](#9-gdp-time-series-forecasting)
-    * [Sports Analytics ⚽](#sports-analytics-)
-        * [10. Football Performance Analysis](#10-football-performance-analysis)
-        * [11. Football Manager 2024 Scouting & Analysis Platform](#11-football-manager-2024-scouting--analysis-platform)
-* [Let’s Connect! 🤝](#lets-connect-)
+At **Veolia Digital Innovation**, I have led several internal data projects from problem framing and data extraction to modelling, validation, dashboards and usable tools. Most of my work sits close to consulting engineers and domain specialists, where the goal is not just to analyze data, but to make complex environmental, operational and commercial data easier to understand and act on.
 
 ---
 
-## Core Skills 🛠️
+## What I Work With
+
+* Applied data science and machine learning
+* Data analysis, dashboards and decision-support tools
+* Forecasting, anomaly detection and model validation
+* Environmental, wastewater, groundwater and operational data
+* Geospatial analysis and route optimization
+* Web scraping, APIs, data cleaning and feature engineering
+* Python, SQL, R, Streamlit, Shiny, Plotly, scikit-learn and XGBoost
+
+
+## Core Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,21 +39,73 @@ My journey at Veolia in the Digital Innovation department has been incredibly re
 
 ---
 
-## Projects
+## Current Focus: Applied Data Projects at Veolia
 
-Below is a selection of projects that showcase my approach to tackling challenges and exploring diverse datasets. While some client projects remain confidential, I’ve highlighted my role, the technologies I used, and the impact of my work.
+At **Veolia Digital Innovation**, I work independently on data projects in collaboration with consulting engineers and domain specialists. I have been lead on several internal projects, often taking them from an unclear problem or manual workflow to a working analytical tool, dashboard or model.
+
+Examples of my work include:
+
+* wastewater forecasting and model validation
+* anomaly detection for soil remediation sensor data
+* groundwater model comparison using SQL, APIs, Streamlit and Plotly
+* cathodic protection monitoring and anomaly detection
+* route optimization for field technicians using clustering, OSRM and Google OR-Tools
+* dashboards and decision-support tools for environmental and operational data
+
+---
+# Selected Projects
+
+## Environmental, Operational & Applied Data Science
+
+### 1. Pretreatment Facility: Wastewater Forecasting & Model Validation
+
+**Context:** Applied machine learning project using wastewater treatment data from Pretreatment Facility.
+
+**Problem:**
+Wastewater treatment plants operate under changing load conditions. Forecasting can support better operational awareness, but only if models are evaluated realistically and compared against simple baselines.
+
+**What I did:**
+
+* Built forecasting workflows for next-day total inflow
+* Worked with operational wastewater process data and high-load situations
+* Compared machine learning models against simple baseline approaches such as persistence
+* Built validation workflows for high-load classification and regression tasks
+* Used temporal splits / rolling-origin style validation to reduce leakage risk
+* Evaluated model performance with a focus on realistic deployment conditions
+* Structured outputs into clear metrics and reports for model comparison
+
+**Target examples:**
+
+* next-day total flow forecasting
+* high-load classification
+* NH4-related regression and process analysis
+
+**Tools:** Python, pandas, scikit-learn, forecasting, regression, classification, temporal validation, model evaluation
+
+**Why it matters:**
+This project shows practical data science on real operational process data: forecasting, validation, baseline comparison and the discipline to test whether machine learning actually adds value.
 
 ---
 
-## Environmental Data Science & Optimization 🌿
+### 2. Anomaly Detection & Soil Remediation Optimization
 
-### 1. Bachelor Project: Anomaly Detection & Soil Remediation Optimization
-- **Problem:** Detect unusual patterns and inefficiencies in complex soil remediation processes using sensor data.  
-- **Data Processing:** Cleaned, transformed, and engineered features from temperature sensors at various depths.  
-- **Anomaly Detection:** Implemented and compared Isolation Forest, One-Class SVM, and Local Outlier Factor to accurately flag deviations indicating potential issues or optimization opportunities.  
-- **Geospatial Visualization:** Used QGIS to map sensor locations and spatial distribution of anomalies, providing vital geographic context.  
-- **Interactive Dashboard:** Built an app/dashboard for real-time temperature visualization, daily change tracking, and efficiency analysis—empowering engineers to explore, review, and monitor remediation progress.  
-- **Impact:** Enabled early warnings, optimized resource allocation, reduced operational costs, and improved overall remediation efficiency.
+**Context:** Bachelor project and applied environmental data science work.
+
+**Problem:**
+Soil remediation processes generate complex sensor data. Unusual temperature patterns can indicate inefficiencies, process issues or optimization opportunities.
+
+**What I did:**
+
+* Cleaned, transformed and engineered features from temperature sensor data
+* Compared anomaly detection methods including Isolation Forest, One-Class SVM and Local Outlier Factor
+* Used QGIS to map sensor locations and spatial patterns
+* Built an interactive dashboard for temperature visualization, daily change tracking and efficiency analysis
+* Translated technical model outputs into something engineers could inspect and use
+
+**Tools:** Python, pandas, scikit-learn, Isolation Forest, LOF, One-Class SVM, QGIS, dashboarding
+
+**Why it matters:**
+The project shows how machine learning can support environmental engineering by making process deviations easier to detect and investigate.
 
 <details>
   <summary>See more 📸</summary>
@@ -73,28 +117,31 @@ Below is a selection of projects that showcase my approach to tackling challenge
   <img width="904" height="352" alt="image" src="https://github.com/user-attachments/assets/f87fc280-8d58-47ef-aad0-84b1a3343d3f" />
 </details>
 
-### 2. Cathodic Protection Data Platform
-- **Web Scraping:** Authenticated and navigated complex tree structures on katodiskbeskyttelse.dk to download data programmatically.  
-- **Data Management:** Organized scraped data into a logical Station/Sub-tree/Sensor folder hierarchy for easy access.  
-- **Interactive Plotting App:** Developed an interface for dynamic filtering and time-series visualization of “On”, “Off”, and depolarization values against industry thresholds. 
-- **Anomaly Detection App:** Integrated Machine Learning (IsolationForest, LocalOutlierFactor, OneClassSVM, EllipticEnvelope, KNN) to flag unusual readings and provide maintenance teams with an early warning system.  
-- **Impact:** Transformed manual processes into an automated, insight-driven workflow—enabling proactive maintenance and extending structural lifespan.
+---
 
-### 3. GeoPlanner: Route Optimization for Field Technicians
-- **Clustering:** Applied clustering to group tasks intelligently and ensure efficient assignments.  
-- **Vehicle Routing:** Leveraged Google OR-Tools to solve the VRP, factoring in distances, technician schedules, and lodging constraints.  
-- **Routing Engine:** Integrated OSRM for accurate travel-time and distance calculations.  
-- **Interactive Maps:** Embedded interactive maps and visualizations for planners to fine-tune routes.  
-- **Impact:** Delivered significant reductions in travel time and operating costs for field teams through optimized routing.
+### 3. Groundwater Model Comparison Tool
 
-### 4. Near-Surface Groundwater: Hydrological Model Comparison
-- **SQL Integration:** Designed efficient queries to extract and clean time-series groundwater data various databases and put them together in one SQL database.
-- **API Integration:** Retrieved modeled groundwater levels via API for spatially specific model outputs.  
-- **Data Transformation:** Converted coordinate systems (DVR90 → UTM/WGS84) and harmonized large geospatial time series from multiple sources.  
-- **Visualization App:** Built a Streamlit tool allowing users to compare observed vs. modeled levels, upload custom CSVs, and interactively explore spatio-temporal discrepancies.  
-- **Statistical Analysis:** Calculated metrics such as RMSE and mean bias to quantify model accuracy. Also created a risk & cost analysis for all municipalities in Denmark based on Envidan calculation methods.
-- **Plotly Visuals:** Created dynamic charts to communicate model performance and guide improvement.  
-- **Impact:** Enhanced understanding of hydrological model accuracy and delivered a dynamic analysis platform for environmental stakeholders.
+**Context:** Environmental analytics and hydrological model comparison.
+
+**Problem:**
+Observed groundwater levels and modelled groundwater levels need to be compared across time, location and data sources.
+
+**What I did:**
+
+* Extracted and cleaned time-series groundwater data using SQL
+* Retrieved modelled groundwater levels through APIs
+* Harmonized geospatial and temporal data from multiple sources
+* Converted coordinate systems and prepared data for comparison
+* Built a Streamlit tool for comparing observed vs. modelled levels
+* Calculated model performance metrics such as RMSE and mean bias
+* Created Plotly visualizations to make model differences easier to explore
+* Built risk and cost analysis views for municipalities based on domain-specific calculation methods
+
+**Tools:** SQL, Python, APIs, Streamlit, Plotly, geospatial data, coordinate transformation, RMSE, bias
+
+**Why it matters:**
+The tool helps domain specialists inspect model performance and understand where groundwater models align or differ from observed data.
+
 
 <details>
   <summary>See more 📸</summary>
@@ -106,18 +153,76 @@ Below is a selection of projects that showcase my approach to tackling challenge
 
 ---
 
-## Market & Economic Analysis 📈
+### 4. Cathodic Protection Data Platform
 
-### 5. Used-Car Price Prediction & Deal Identification
-- **Web Scraping:** Collected large datasets from different websites covering a broad range of vehicle attributes and prices.
-- **Feature Engineering:** Crafted predictive features from raw listings.  
-- **Ensemble Modeling:** Built and tuned ensembles for high-accuracy price predictions.  
-- **Outlier Detection:** Flagged vehicles with price deviations as potential deals.
-- **Visualization App:** Built a tool where you can put car attributes and get a predicted price.
-- **Impact:** Created a tool to predict listing prices and highlight undervalued cars for buyers and sellers.
+**Context:** Operational monitoring and automation project.
 
-Try my price prediction tool here:
-brugtvognsapp.rasmusdinesen.dk
+**Problem:**
+Cathodic protection data was difficult and time-consuming to extract, structure and monitor manually.
+
+**What I did:**
+
+* Automated authenticated data extraction from a complex source
+* Structured station, sub-tree and sensor data into a usable hierarchy
+* Built interactive time-series visualizations for On, Off and depolarization values
+* Added anomaly detection methods to flag unusual readings
+* Helped turn manual monitoring into a more structured analytical workflow
+
+**Tools:** Python, web scraping, time-series analysis, anomaly detection, interactive visualization
+
+**Methods:** Isolation Forest, Local Outlier Factor, One-Class SVM, EllipticEnvelope, KNN
+
+**Why it matters:**
+The project made technical monitoring data easier to inspect, helping users identify potential issues earlier.
+
+---
+
+### 5. GeoPlanner: Route Optimization for Field Technicians
+
+**Context:** Planning and optimization for field work.
+
+**Problem:**
+Field technician tasks need to be planned efficiently while considering distance, travel time, schedules and lodging constraints.
+
+**What I did:**
+
+* Used clustering to group field tasks intelligently
+* Integrated OSRM for travel-time and distance calculations
+* Used Google OR-Tools to solve route optimization problems
+* Built interactive maps and planning views for route inspection
+* Designed the tool around real planning constraints rather than only theoretical optimization
+
+**Tools:** Python, clustering, OSRM, Google OR-Tools, geospatial analysis, interactive maps
+
+**Why it matters:**
+The project shows how optimization can support operational planning and reduce unnecessary travel
+
+----
+
+## Market, Economic & Product Analytics
+
+### 6. Used-Car Price Prediction & Deal Finder
+
+**Context:** Portfolio project combining scraping, modelling and an interactive app.
+
+**Problem:**
+Used-car prices are difficult to compare because listings differ across model, year, mileage, fuel type, equipment and other attributes.
+
+**What I did:**
+
+* Scraped and cleaned used-car listing data
+* Engineered features from raw listing attributes
+* Built price prediction models to estimate fair listing value
+* Used model deviations to flag potentially underpriced cars
+* Built an interactive app where users can input vehicle attributes and receive a predicted price
+
+**Tools:** Python, web scraping, pandas, feature engineering, machine learning, outlier detection, Streamlit
+
+**Live app:** [rasmusdinesen.dk](https://rasmusdinesen.dk)
+
+**Why it matters:**
+The project shows the full workflow from data collection to model development and a usable product.
+
 
 <details>
   <summary>See more 📸</summary>
@@ -131,22 +236,27 @@ brugtvognsapp.rasmusdinesen.dk
   <img width="685" height="546" alt="image" src="https://github.com/user-attachments/assets/52d58a73-d64d-404b-b4d9-e9c380c627f7" />
 </details>
 
-### 6. Danish Housing Market Analysis
-- **Data Collection:** Integrated APIs (Danmarks Statistik) and web scraping to gather housing, demographic, and economic data.  
-- **Statistical Modeling:** Examined correlations between price/m² and factors like expenses, year built, rooms, and size.  
-- **Trend Visualization:** Produced regional and temporal trend charts to reveal market dynamics and forecast developments.  
-- **Impact:** Delivered insights into key drivers of Danish real-estate prices and regional variations.  
-
-<details>
-  <summary>See more 📸</summary>
-  <img width="971" height="397" alt="image" src="https://github.com/user-attachments/assets/9b0c455d-b444-4a56-a0c7-8d9dd29c636b" />
-</details>
+---
 
 ### 7. Consumer Confidence & Economic Forecasting
-- **Macro Data Analysis:** Merged consumer confidence indices (DST, Dansk Industri) with historical consumption data.  
-- **Time-Series Modeling:** Applied ARIMA and regression techniques to model confidence-driven spending trends.  
-- **API Integration:** Pulled comparative data from Eurostat for broader economic context.  
-- **Impact:** Improved understanding of how consumer sentiment predicts future economic activity.
+
+**Context:** Academic/economic analysis project.
+
+**Problem:**
+Consumer confidence may contain signals about future private consumption, but the relationship needs to be tested statistically.
+
+**What I did:**
+
+* Combined Danish consumer confidence data with historical private consumption data
+* Worked with data from sources such as Danmarks Statistik, Dansk Industri and Eurostat
+* Applied regression, PCR and time-series methods
+* Evaluated relationships between sentiment and spending
+* Communicated findings through visualizations and statistical interpretation
+
+**Tools:** R, regression, ARIMA, PCR, economic data, forecasting, visualization
+
+**Why it matters:**
+The project shows my ability to work with economic indicators, uncertainty and statistical modelling.
 
 <details>
   <summary>See more 📸</summary>
@@ -154,11 +264,52 @@ brugtvognsapp.rasmusdinesen.dk
   <img width="709" height="540" alt="image" src="https://github.com/user-attachments/assets/a0e450c7-0266-43a9-8a79-2d334b415f07" />
 </details>
 
-### 8. Business Loan Accessibility
-- **Data Aggregation:** Combined financial statements, headcount, and survey data on lending experiences.  
-- **Linear Regression:** Identified predictors of successful loan applications (e.g., solvency ratios, balance sheet size, staff count).  
-- **Statistical Interpretation:** Highlighted key factors influencing small-business loan access.  
-- **Impact:** Provided actionable insights on what drives business creditworthiness.
+---
+
+### 8. Danish Housing Market Analysis
+
+**Context:** Market analysis and data collection project.
+
+**Problem:**
+Housing prices vary by geography, property characteristics and market conditions, and the drivers need to be explored with data.
+
+**What I did:**
+
+* Collected housing and demographic data through APIs and scraping
+* Cleaned and structured data for analysis
+* Analyzed relationships between price per square meter and variables such as size, rooms, year built and expenses
+* Created visualizations of regional and temporal patterns
+
+**Tools:** R, Python, APIs, web scraping, regression, visualization
+
+**Why it matters:**
+The project shows my ability to combine multiple data sources and turn market data into interpretable insights.
+
+<details>
+  <summary>See more 📸</summary>
+  <img width="971" height="397" alt="image" src="https://github.com/user-attachments/assets/9b0c455d-b444-4a56-a0c7-8d9dd29c636b" />
+</details>
+
+---
+
+### 9. Business Loan Accessibility
+
+**Context:** Statistical analysis of business lending.
+
+**Problem:**
+Access to business loans depends on financial and organizational factors, but the important predictors need to be identified.
+
+**What I did:**
+
+* Combined financial statements, headcount data and survey responses
+* Applied regression methods to identify relevant predictors
+* Interpreted factors such as solvency ratios, balance sheet size and staff count
+* Communicated findings in a business-oriented way
+
+**Tools:** R, regression, statistical analysis, financial data
+
+**Why it matters:**
+The project shows my ability to connect statistical analysis with business questions.
 
 <details>
   <summary>See more 📸</summary>
@@ -167,7 +318,7 @@ brugtvognsapp.rasmusdinesen.dk
   <img width="988" height="574" alt="image" src="https://github.com/user-attachments/assets/89eab138-71d8-4841-9d23-0bd7925556a7" />
 </details>
 
-### 9. GDP Time-Series Forecasting
+### 9.1 GDP Time-Series Forecasting
 - **Modeling:** Tested ARIMA, exponential smoothing, and other methods on Denmark’s historical GDP data.  
 - **Evaluation:** Benchmarked forecast accuracy using relevant metrics.  
 - **Forecasting:** Projected future GDP trajectories to support economic planning.  
@@ -184,13 +335,26 @@ brugtvognsapp.rasmusdinesen.dk
 
 ## Sports Analytics ⚽
 
+## Sports Analytics
+
 ### 10. Football Performance Analysis
-- **Data:** Processed raw tracking and event data (shot locations, pass networks, player movements).  
-- **xG Model:** Built a logistic regression to predict shot success probability based on distance, angle, shot type, game situation, and defensive pressure.  
-- **xP Model:** Predicted match outcomes (win/draw/loss) using xG and factors like opponent strength and home advantage.  
-- **Visualization:** Charted xG flow and model results to make insights accessible.  
-- **Theory:** Reflected on epistemological considerations (logical positivism vs. social constructivism) in sports data interpretation.  
-- **Impact:** Delivered a data-driven framework for tactical analysis, player development, and recruitment.
+
+**Context:** Sports analytics and event-data modelling.
+
+**Problem:**
+Football performance is complex, and event data can be used to model shot quality, match dynamics and tactical patterns.
+
+**What I did:**
+
+* Processed event data such as shots, passes, duels and player actions
+* Built xG-style models using variables such as distance, angle, shot type and game context
+* Visualized shot maps, xG flow and performance trends
+* Reflected on how data interpretation changes depending on assumptions and context
+
+**Tools:** R, Python, MongoDB, event data, logistic regression, visualization
+
+**Why it matters:**
+The project shows my interest in modelling real-world behavior where data is useful, but never tells the whole story alone.
 
 <details>
   <summary>See more 📸</summary>
@@ -212,12 +376,24 @@ brugtvognsapp.rasmusdinesen.dk
   <img width="611" height="320" alt="image" src="https://github.com/user-attachments/assets/b8fc3002-02db-43f1-b685-f8d98920ec33" />
 </details>
 
-### 11. Football Manager 2024 Scouting & Analysis Platform
-- **Automated Data Extraction:** Scraped player attributes from Football Manager HTML exports using Python.  
-- **Data Cleaning:** Standardized numeric values (salaries, transfer values), handled missing data, and resolved inconsistencies.  
-- **Interactive Scouting App:** Developed a Streamlit interface enabling dynamic filtering by age, skills, salary, and custom attribute ranges.  
-- **Attribute Analysis:** Conducted correlation studies to uncover key performance indicators for each position.  
-- **Impact:** Transformed static game data into a powerful tool for informed scouting decisions in Football Manager.
+### 11. Football Manager Scouting & Analysis Platform
+
+**Context:** Personal analytics tool built around Football Manager data.
+
+**Problem:**
+Football Manager exports contain useful player data, but static tables are difficult to search, compare and interpret.
+
+**What I did:**
+
+* Scraped player attributes from Football Manager HTML exports
+* Cleaned and standardized values such as salaries and transfer values
+* Built an interactive scouting app with filters for age, skills, salary and custom attributes
+* Analyzed attribute patterns and correlations by position
+
+**Tools:** Python, web scraping, pandas, Streamlit, correlation analysis
+
+**Why it matters:**
+The project shows how I turn static data into an interactive tool that supports better decisions.
 
 <details>
   <summary>See more 📸</summary>
@@ -231,9 +407,49 @@ brugtvognsapp.rasmusdinesen.dk
 
 ---
 
-# Let’s Connect! 🤝
+# How I Work
 
-I’m always excited to discuss new opportunities, share insights, or collaborate on innovative data science projects.
+I usually work across the full data workflow:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusstaaldinesen/)   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasmusstaal@yahoo.dk)
+1. Understand the problem and the people who need the result
+2. Find, extract and clean the relevant data
+3. Build the analysis, model, dashboard or automation
+4. Validate whether the output is useful and reliable
+5. Turn it into a dashboard, app, report or tool
+6. Communicate the result clearly to technical and non-technical users
+
+I care a lot about the last part. A model or analysis is only useful if someone can understand it, trust it and use it.
+
+---
+
+# Education
+
+**MSc in Digital Design & Interactive Technologies**
+IT University of Copenhagen
+Focus on data-driven systems, AI, interactive technologies, usability and applied machine learning.
+
+**BSc in Data Analysis**
+Copenhagen Business Academy
+Specialization in machine learning and data optimization. Bachelor project on ML-based soil remediation optimization.
+
+**AP Degree in Marketing Management**
+Business Academy SouthWest
+Background in marketing, digital analysis, performance marketing, customer growth and branding.
+
+---
+
+# Certifications, Languages & Additional Experience
+
+**Certifications:** Google Success Online - Digital Marketing; R for Data Science: Analysis and Visualization; Statistics Foundations.
+
+**Languages:** Danish native, English fluent, German beginner.
+
+**Additional experience:** Digital marketing, fitness instruction, service roles, special education assistance and football coaching. These roles strengthened my communication, planning and stakeholder-facing work.
+
+---
+
+# Contact
+
+* GitHub: [github.com/rasmusstaaldinesen](https://github.com/rasmusstaaldinesen)
+* LinkedIn: [linkedin.com/in/rasmusstaaldinesen](https://www.linkedin.com/in/rasmusstaaldinesen/)
+* Email: [rasmusstaal@yahoo.dk](mailto:rasmusstaal@yahoo.dk)
